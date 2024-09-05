@@ -1,0 +1,20 @@
+.footer {
+    padding: $separacion;
+    background-color: $grisOscuro;
+    margin-bottom: 0;
+
+    .contenido-footer {
+        padding-top: $separacion;
+    }
+
+    .navegacion {
+        visibility: visible;
+        opacity: 1;
+        height: auto;
+    }
+
+    .copyrigh {
+        color: $blanco;
+        text-align: center;
+    }
+}
